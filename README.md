@@ -1,6 +1,6 @@
 # Discord Server Calling Bot
 
-This bot sends repeated messages to a user from the command `call @User`, telling them the server and the voice channel to join.
+This bot sends repeated messages to a user from the command `.call @User`, telling them the server and the voice channel to join.
 
 ## Requirements
 
